@@ -1,2 +1,2 @@
 # austinoutages
-Webpage displaying timelapse of recent Austin power outage
+Tracker for Austin power outages
